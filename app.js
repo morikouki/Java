@@ -1,1 +1,4 @@
-alert(3 - 1);
+function addString(strA){
+	var addStr = 'Hello' + strA;
+	return addStr;
+}
